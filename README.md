@@ -1,5 +1,3 @@
-# FineTuning-LLMs-Summarization
----
 # Fine-Tuning Large Language Models for Text Summarization
 
 This repository contains the implementation of fine-tuning and evaluating various Large Language Models (LLMs) for the task of text summarization. It is part of the CS-4063 Natural Language Processing course (Fall 2024) Assignment 3.
