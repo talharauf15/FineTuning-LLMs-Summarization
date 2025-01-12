@@ -49,4 +49,3 @@ The dataset used for this assignment is publicly available at [Kaggle](https://w
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-```
